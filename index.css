@@ -1,0 +1,1139 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+
+body {
+  width: 1440px;
+  height: 6886px;
+  background: #ffffff;
+}
+
+.vibrant-img {
+  width: 252px;
+  height: 69px;
+  flex-shrink: 0;
+}
+
+.trnf-img {
+  position: relative;
+  width: 1440px;
+  height: 701px;
+  max-width: fit-content;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.container {
+  width: 1440px;
+  height: 701px;
+}
+
+.rectangle-1 {
+  background: #ffffff;
+  width: 7px;
+  height: 291px;
+}
+
+.transformer-company {
+  color: #fff;
+  font-size: 64px;
+  font-family: Red Hat Display, sans-serif;
+  margin-left: 5%;
+}
+
+.content {
+  color: #fff;
+  font-size: 40px;
+  font-family: "Rhodium Libre", sans-serif;
+  margin-left: 5%;
+}
+
+.btn {
+  display: flex;
+  flex-direction: row;
+  margin-left: 5%;
+}
+
+.btn-1 {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 208px;
+  height: 55px;
+  box-shadow: 0px 4px 22px 0px rgba(0, 0, 0, 0.1);
+  color: #000000;
+  text-align: left;
+  font: 400 28px "Roboto", sans-serif;
+  position: relative;
+  padding: 10px;
+  margin: 10px;
+}
+
+.btn-2 {
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 208px;
+  height: 55px;
+  box-shadow: 0px 4px 22px 0px rgba(0, 0, 0, 0.1);
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "Roboto", sans-serif;
+  position: relative;
+  margin: 10px;
+}
+
+.our-services {
+  text-align: left;
+  font: 600 64px "Red Hat Display", sans-serif;
+  position: relative;
+  padding: 1%;
+}
+
+.our-services-span {
+  color: #000000;
+  font: 600 64px "Red Hat Display", sans-serif;
+}
+
+.our-services-span2 {
+  color: #0d4497;
+  font: 600 64px "Red Hat Display", sans-serif;
+}
+
+.rorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis,
+.rorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis
+  * {
+  box-sizing: border-box;
+}
+.rorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis {
+  color: #000000;
+  text-align: left;
+  font: 300 32px "Red Hat Display", sans-serif;
+  position: relative;
+  padding: 1%;
+}
+
+.frame-10,
+.frame-10 * {
+  box-sizing: border-box;
+}
+.frame-10 {
+  display: flex;
+  flex-direction: row;
+  gap: 58px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin: auto;
+  padding: 1%;
+  padding-left: 3%;
+}
+.group-4 {
+  flex-shrink: 0;
+  width: 381px;
+  height: 478px;
+  position: static;
+}
+.rectangle-241 {
+  background: #f39946;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 381px;
+  height: 478px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 24px 0px rgba(0, 0, 0, 0.3);
+}
+.vector {
+  position: absolute;
+  left: 136px;
+  top: 50px;
+  overflow: visible;
+}
+.abc {
+  color: #ffffff;
+  text-align: center;
+  font: 700 42px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 108px;
+  top: 184px;
+  width: 144px;
+  height: 49px;
+}
+.korem-1 {
+  color: #ffffff;
+  text-align: center;
+  font: 500 20px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 19px;
+  top: 273px;
+  width: 342.65px;
+  height: 31.14px;
+}
+.group-5 {
+  flex-shrink: 0;
+  width: 381px;
+  height: 478px;
+  position: static;
+}
+.rectangle-2412 {
+  background: #ffffff;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 381px;
+  height: 478px;
+  position: absolute;
+  left: 439px;
+  top: 0px;
+  box-shadow: 0px 4px 24px 0px rgba(0, 0, 0, 0.3);
+}
+.vector2 {
+  position: absolute;
+  left: 575px;
+  top: 50px;
+  overflow: visible;
+}
+.abc2 {
+  color: #000000;
+  text-align: center;
+  font: 400 42px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 547px;
+  top: 184px;
+  width: 144px;
+  height: 49px;
+}
+.korem-2 {
+  color: #595959;
+  text-align: center;
+  font: 200 20px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 458px;
+  top: 273px;
+  width: 342.65px;
+  height: 31.14px;
+}
+.group-6 {
+  flex-shrink: 0;
+  width: 381px;
+  height: 478px;
+  position: static;
+}
+.rectangle-2413 {
+  background: #ffffff;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 381px;
+  height: 478px;
+  position: absolute;
+  left: 878px;
+  top: 0px;
+  box-shadow: 0px 4px 24px 0px rgba(0, 0, 0, 0.3);
+}
+.vector3 {
+  position: absolute;
+  left: 1014px;
+  top: 50px;
+  overflow: visible;
+}
+.abc3 {
+  color: #000000;
+  text-align: center;
+  font: 400 42px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 986px;
+  top: 184px;
+  width: 144px;
+  height: 49px;
+}
+.korem {
+  color: #595959;
+  text-align: center;
+  font: 200 20px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 897px;
+  top: 273px;
+  width: 342.65px;
+  height: 31.14px;
+}
+.frame-6,
+.frame-6 * {
+  box-sizing: border-box;
+}
+.frame-6 {
+  background: #000000;
+  width: 1440px;
+  height: 1860px;
+  position: relative;
+  overflow: hidden;
+}
+.let-s-see-a-selection-of-our-work {
+  color: #ffffff;
+  text-align: left;
+  font: 600 67px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 55px;
+  top: 27px;
+  width: 710px;
+}
+.here-are-some-examples-of-work-that-can-be-usead-as-refreence-for-quality-we-produce {
+  color: #cfcfcf;
+  text-align: left;
+  font: 400 20px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 835px;
+  top: 63px;
+  width: 438px;
+  height: 38px;
+}
+.see-all {
+  color: #1556b8;
+  text-align: left;
+  font: 400 24px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 835px;
+  top: 152px;
+  width: 438px;
+  height: 38px;
+}
+.rectangle-2 {
+  background: #ffffff;
+  width: 7px;
+  height: 113px;
+  position: absolute;
+  left: 57px;
+  top: 919px;
+}
+.group-42 {
+  position: absolute;
+  inset: 0;
+}
+.lorem-ipsum {
+  color: #ffffff;
+  text-align: left;
+  font: 600 48px "Roboto", sans-serif;
+  position: absolute;
+  left: 57px;
+  top: 1137px;
+}
+.group-7 {
+  width: 597px;
+  height: 190px;
+  position: static;
+}
+.dorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-class-aptent-taciti-sociosqu-ad-litora-torquent-per-conubia-nostra-per-inceptos-himenaeos {
+  color: #595959;
+  text-align: left;
+  font: 400 28px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 57px;
+  top: 1205px;
+  width: 597px;
+  height: 190px;
+}
+.group-8 {
+  width: 1324px;
+  height: 258px;
+  position: static;
+}
+.group-43 {
+  width: 597px;
+  height: 258px;
+  position: static;
+}
+.lorem-ipsum2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 48px "Roboto", sans-serif;
+  position: absolute;
+  left: 57px;
+  top: 1537px;
+}
+.dorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-class-aptent-taciti-sociosqu-ad-litora-torquent-per-conubia-nostra-per-inceptos-himenaeos2 {
+  color: #595959;
+  text-align: left;
+  font: 400 28px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 57px;
+  top: 1605px;
+  width: 597px;
+  height: 190px;
+}
+.group-44 {
+  width: 597px;
+  height: 258px;
+  position: static;
+}
+.lorem-ipsum3 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 48px "Roboto", sans-serif;
+  position: absolute;
+  left: 784px;
+  top: 1537px;
+}
+.dorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-class-aptent-taciti-sociosqu-ad-litora-torquent-per-conubia-nostra-per-inceptos-himenaeos3 {
+  color: #595959;
+  text-align: left;
+  font: 400 28px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 784px;
+  top: 1605px;
+  width: 597px;
+  height: 190px;
+}
+.shape {
+  position: absolute;
+  left: 936px;
+  top: 157px;
+  overflow: visible;
+}
+.digitaltransformator-keyvisual-rgb-removebg-preview-1 {
+  width: 1045px;
+  height: 609px;
+  position: absolute;
+  left: 628px;
+  top: 912px;
+}
+.frame-18 {
+  display: flex;
+  flex-direction: row;
+  gap: 54px;
+  align-items: center;
+  justify-content: flex-end;
+  position: absolute;
+  left: 22px;
+  top: 253px;
+}
+.frame-15 {
+  border-radius: 10px 10px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 54px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-422 {
+  flex-shrink: 0;
+  width: 429.05px;
+  height: 594.03px;
+  position: static;
+}
+.group-45 {
+  width: 429.05px;
+  height: 594.03px;
+  position: static;
+}
+.group-36 {
+  width: 429px;
+  height: 372px;
+  position: static;
+}
+.group-30 {
+  width: 429px;
+  height: 372px;
+  position: static;
+}
+.whats-app-image-2023-05-24-at-23-19-8 {
+  border-radius: 10px 10px 0px 0px;
+  width: 429px;
+  height: 372px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-37 {
+  width: 429px;
+  height: 222.03px;
+  position: static;
+}
+.group-18 {
+  width: 429px;
+  height: 222.03px;
+  position: static;
+}
+.rectangle-247 {
+  background: #ffffff;
+  border-radius: 0px 0px 10px 10px;
+  width: 429px;
+  height: 222.03px;
+  position: absolute;
+  left: 0.05px;
+  top: 372px;
+}
+.lorem-ipsum4 {
+  color: #000000;
+  text-align: left;
+  font: 400 42px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 16.87px;
+  top: 379px;
+  width: 251.36px;
+  height: 48.38px;
+}
+.korem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis {
+  color: #595959;
+  text-align: left;
+  font: 400 20px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 16.87px;
+  top: 445px;
+  width: 375.9px;
+  height: 38px;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: row;
+  gap: 54px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-423 {
+  flex-shrink: 0;
+  width: 429px;
+  height: 594.03px;
+  position: static;
+}
+.group-452 {
+  width: 429px;
+  height: 594.03px;
+  position: static;
+}
+.group-362 {
+  width: 429px;
+  height: 379px;
+  position: static;
+}
+.group-302 {
+  width: 429px;
+  height: 379px;
+  position: static;
+}
+.group-29 {
+  width: 429px;
+  height: 379px;
+  position: static;
+}
+.group-26 {
+  width: 429px;
+  height: 379px;
+  position: static;
+}
+.whats-app-image-2023-05-24-at-23-19-5 {
+  border-radius: 10px 10px 0px 0px;
+  width: 429px;
+  height: 379px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-2472 {
+  background: #ffffff;
+  border-radius: 0px 0px 10px 10px;
+  width: 429px;
+  height: 222.03px;
+  position: absolute;
+  left: 0px;
+  top: 372px;
+}
+.lorem-ipsum5 {
+  color: #000000;
+  text-align: left;
+  font: 400 42px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 16.82px;
+  top: 379px;
+  width: 251.36px;
+  height: 48.38px;
+}
+.korem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis2 {
+  color: #595959;
+  text-align: left;
+  font: 400 20px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 16.82px;
+  top: 445px;
+  width: 375.9px;
+  height: 38px;
+}
+.frame-16 {
+  display: flex;
+  flex-direction: row;
+  gap: 54px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-424 {
+  flex-shrink: 0;
+  width: 429px;
+  height: 601.03px;
+  position: static;
+}
+.group-453 {
+  width: 429px;
+  height: 601.03px;
+  position: static;
+}
+.group-363 {
+  width: 429px;
+  height: 386px;
+  position: static;
+}
+.group-303 {
+  width: 429px;
+  height: 386px;
+  position: static;
+}
+.group-292 {
+  width: 429px;
+  height: 386px;
+  position: static;
+}
+.group-262 {
+  width: 429px;
+  height: 386px;
+  position: static;
+}
+.whats-app-image-2023-05-24-at-23-19-7 {
+  border-radius: 10px 10px 0px 0px;
+  width: 429px;
+  height: 386px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-2473 {
+  background: #ffffff;
+  border-radius: 0px 0px 10px 10px;
+  width: 429px;
+  height: 222.03px;
+  position: absolute;
+  left: 0px;
+  top: 379px;
+}
+.lorem-ipsum6 {
+  color: #000000;
+  text-align: left;
+  font: 400 42px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 16.82px;
+  top: 386px;
+  width: 251.36px;
+  height: 48.38px;
+}
+.korem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis3 {
+  color: #595959;
+  text-align: left;
+  font: 400 20px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 16.82px;
+  top: 452px;
+  width: 375.9px;
+  height: 38px;
+}
+/* .about-us {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+}
+.about-txt {
+  position: relative;
+}
+.about {
+  color: white;
+  font-size: 64px;
+  font-family: Red Hat Display;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.us {
+  color: white;
+  font-size: 64px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  word-wrap: break-word;
+} */
+.person-container {
+  display: flex;
+  justify-content: center;
+}
+
+.about {
+  top: 1150px;
+}
+
+.person {
+  left: 63px;
+  top: 4210px;
+  width: 254.1px;
+  height: 48.38px;
+  text-align: center;
+  margin: 0 10px;
+}
+
+.person-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.founder-group,
+.founder-group * {
+  box-sizing: border-box;
+}
+.founder-group {
+  position: absolute;
+  inset: 0;
+}
+.porem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-class-aptent-taciti-sociosqu-ad-litora-torquent-per-conubia-nostra-per-inceptos-himenaeos {
+  color: #595959;
+  text-align: left;
+  font: 400 20px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 689px;
+  top: 3612px;
+  width: 603px;
+  height: 142px;
+}
+.group-40 {
+  width: 776px;
+  height: 222.03px;
+  position: static;
+}
+.group-37 {
+  width: 776px;
+  height: 222.03px;
+  position: static;
+}
+.group-18 {
+  width: 433.68px;
+  height: 222.03px;
+  position: static;
+}
+.rectangle-247 {
+  background: #ffffff;
+  width: 433.68px;
+  height: 222.03px;
+  position: absolute;
+  left: 63px;
+  top: 4203px;
+}
+.lorem-ipsum {
+  color: #000000;
+  text-align: center;
+  font: 600 42px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 63px;
+  top: 4210px;
+  width: 254.1px;
+  height: 48.38px;
+}
+.lorem-ipsum2 {
+  color: #000000;
+  text-align: center;
+  font: 600 42px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 468px;
+  top: 4210px;
+  width: 254.1px;
+  height: 48.38px;
+}
+.co-founder {
+  color: #595959;
+  text-align: center;
+  font: 400 24px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 4276px;
+  width: 380px;
+  height: 38px;
+}
+.co-founder2 {
+  color: #595959;
+  text-align: center;
+  font: 400 24px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 396px;
+  top: 4276px;
+  width: 380px;
+  height: 38px;
+}
+.group-41 {
+  width: 776px;
+  height: 222.03px;
+  position: static;
+}
+.rectangle-2472 {
+  background: #ffffff;
+  width: 433.68px;
+  height: 222.03px;
+  position: absolute;
+  left: 839px;
+  top: 4203px;
+}
+.lorem-ipsum3 {
+  color: #000000;
+  text-align: center;
+  font: 600 42px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 839px;
+  top: 4210px;
+  width: 254.1px;
+  height: 48.38px;
+}
+.lorem-ipsum4 {
+  color: #000000;
+  text-align: center;
+  font: 600 42px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 1244px;
+  top: 4210px;
+  width: 254.1px;
+  height: 48.38px;
+}
+.co-founder3 {
+  color: #595959;
+  text-align: center;
+  font: 400 24px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 776px;
+  top: 4276px;
+  width: 380px;
+  height: 38px;
+}
+.co-founder4 {
+  color: #595959;
+  text-align: center;
+  font: 400 24px/30.5px "Roboto", sans-serif;
+  position: absolute;
+  left: 1172px;
+  top: 4276px;
+  width: 380px;
+  height: 38px;
+}
+.ellipse-4 {
+  position: absolute;
+  left: 423px;
+  top: 3862px;
+  overflow: visible;
+}
+.ellipse-18 {
+  position: absolute;
+  left: 1199px;
+  top: 3862px;
+  overflow: visible;
+}
+.ellipse-5 {
+  position: absolute;
+  left: 32px;
+  top: 3874px;
+  overflow: visible;
+}
+.ellipse-19 {
+  position: absolute;
+  left: 808px;
+  top: 3874px;
+  overflow: visible;
+}
+.shape {
+  position: absolute;
+  left: 720px;
+  top: 4413px;
+  overflow: visible;
+}
+.shape2 {
+  position: absolute;
+  left: 678px;
+  top: 4436.08px;
+  transform: translate(-22px, -23.08px);
+  overflow: visible;
+}
+.capital {
+  width: 657px;
+  height: 222.03px;
+
+  position: absolute;
+  left: 63px;
+  top: 3612px;
+}
+
+.capital-text {
+  color: #101110;
+  font-size: 67px;
+  font-family: 'Red Hat Display';
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.capital-text-bold {
+  color: #101110;
+  font-size: 67px;
+  font-family: 'Red Hat Display';
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.footer-group,
+.footer-group * {
+  box-sizing: border-box;
+}
+.footer-group {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-248 {
+  position: absolute;
+  left: -6px;
+  top: 4962px;
+  overflow: visible;
+}
+.rectangle-2482 {
+  background: #000000;
+  width: 1446px;
+  height: 501px;
+  position: absolute;
+  left: -6px;
+  top: 4461px;
+}
+.group-34 {
+  width: 1264px;
+  height: 803px;
+  position: static;
+}
+.image-42 {
+  width: 219px;
+  height: 228px;
+  position: absolute;
+  left: -6px;
+  top: 4633px;
+}
+.rorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-ibero-et-velit-interdum-ac-aliquet-odio-mattis {
+  color: #cfcfcf;
+  text-align: left;
+  font: 300 22px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 263px;
+  top: 4710px;
+  width: 434px;
+}
+._12-march-2023 {
+  color: #cfcfcf;
+  text-align: left;
+  font: 300 22px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 263px;
+  top: 4819px;
+  width: 162px;
+}
+.morem-ipsum {
+  color: #ffffff;
+  text-align: left;
+  font: 300 22px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 101px;
+  top: 5365px;
+  width: 162px;
+}
+._91-1234569670 {
+  color: #ffffff;
+  text-align: left;
+  font: 300 22px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 498px;
+  top: 5365px;
+}
+._91-12345696702 {
+  color: #ffffff;
+  text-align: left;
+  font: 300 22px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 498px;
+  top: 5407px;
+}
+.morem-ipsum2 {
+  color: #ffffff;
+  text-align: left;
+  font: 300 22px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 101px;
+  top: 5394px;
+  width: 162px;
+}
+.lorem-ipsum {
+  color: #ffffff;
+  text-align: left;
+  font: 600 34px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 263px;
+  top: 4648px;
+}
+.frame-12 {
+  display: flex;
+  flex-direction: row;
+  gap: 124px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 103px;
+  top: 5259px;
+}
+.lorem-ipsum2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 34px "Red Hat Display", sans-serif;
+  position: relative;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font: 600 34px "Red Hat Display", sans-serif;
+  position: relative;
+}
+.group-35 {
+  width: 703px;
+  height: 228px;
+  position: static;
+}
+.image-422 {
+  width: 219px;
+  height: 228px;
+  position: absolute;
+  left: 734px;
+  top: 4633px;
+}
+.rorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-ibero-et-velit-interdum-ac-aliquet-odio-mattis2 {
+  color: #cfcfcf;
+  text-align: left;
+  font: 300 22px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 1003px;
+  top: 4710px;
+  width: 434px;
+}
+._12-march-20232 {
+  color: #cfcfcf;
+  text-align: left;
+  font: 300 22px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 1003px;
+  top: 4823px;
+  width: 162px;
+}
+.lorem-ipsum3 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 34px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 1003px;
+  top: 4648px;
+}
+.a-few-nice-words {
+  color: #ffffff;
+  text-align: left;
+  font: 600 58px "Red Hat Display", sans-serif;
+  position: absolute;
+  left: 33px;
+  top: 4505px;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: row;
+  gap: 285px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 109px;
+  top: 4993px;
+}
+.image-45 {
+  flex-shrink: 0;
+  width: 174px;
+  height: 195px;
+  position: relative;
+}
+.image-46 {
+  flex-shrink: 0;
+  width: 247px;
+  height: 119px;
+  position: relative;
+}
+.image-47 {
+  flex-shrink: 0;
+  width: 186px;
+  height: 187px;
+  position: relative;
+}
+.rectangle-250 {
+  background: #f39946;
+  width: 90px;
+  height: 6px;
+  position: absolute;
+  left: 443px;
+  top: 5316px;
+}
+.rectangle-253 {
+  background: #f39946;
+  width: 90px;
+  height: 6px;
+  position: absolute;
+  left: 738px;
+  top: 5316px;
+}
+.rectangle-254 {
+  background: #f39946;
+  width: 90px;
+  height: 6px;
+  position: absolute;
+  left: 1066px;
+  top: 5316px;
+}
+.rectangle-252 {
+  background: #f39946;
+  width: 35px;
+  height: 2px;
+  position: absolute;
+  left: 442px;
+  top: 5393px;
+}
+.rectangle-255 {
+  background: #f39946;
+  width: 35px;
+  height: 2px;
+  position: absolute;
+  left: 440px;
+  top: 5436px;
+}
+.rectangle-251 {
+  background: #f39946;
+  width: 90px;
+  height: 6px;
+  position: absolute;
+  left: 106px;
+  top: 5316px;
+}
+.vector {
+  position: absolute;
+  left: 451px;
+  top: 5384.89px;
+  transform: translate(-1px, -20.89px);
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: 451px;
+  top: 5426.89px;
+  transform: translate(-1px, -20.89px);
+  overflow: visible;
+}
